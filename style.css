@@ -2,7 +2,7 @@
 :root{
     --cor-de-fundo: #222121;
     --branco-principal: #FFFFFF;
-    --fundo-degrade: #494542,#252321;
+    --fundo-degrade: #0c0c0c,#383837;
 }
 
 header{
@@ -25,7 +25,7 @@ header{
 }
 
 .tema{
-    background: linear-gradient(#7a7978,#c9c7c6);
+    background: linear-gradient(#474644,#585757);
     display: inline-flex;    
 }
 
